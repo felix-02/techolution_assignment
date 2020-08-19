@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  padding: 50px 0;
+}
+.topper {
+  color: green;
+}
+.failed {
+  color: red;
+}
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+}
+tr{
+    border-bottom: 1px solid black;
+}
+th {
+  text-align: inherit;
+    border: 1px solid black;
+    padding: 10px;
+}
+td {
+  text-transform: capitalize;
+  border: 1px solid black;
+  padding: 10px; 
+}
